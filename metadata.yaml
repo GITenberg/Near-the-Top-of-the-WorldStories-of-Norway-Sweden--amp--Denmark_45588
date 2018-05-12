@@ -1,0 +1,25 @@
+_repo: Near-the-Top-of-the-WorldStories-of-Norway-Sweden--amp--Denmark_45588
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45588-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Moore, Nelle E.
+    gutenberg_agent_id: '43371'
+    url: http://www.gutenberg.org/2009/agents/43371
+description: ''
+gutenberg_issued: '2014-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers -- Geography'
+- !lcsh 'Scandinavia -- Juvenile literature'
+- !lcc 'PE'
+title: 'Near the Top of the World: Stories of Norway, Sweden & Denmark'
+url: http://www.gutenberg.org/ebooks/45588
